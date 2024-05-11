@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lanhagew@gmail.com**
 
-- ⚡ Fun fact **Im a football nerd with an interest in stats, facts and both cool and retro football kits!**
+- ⚡ Fun fact **Im a football nerd with an interest in stats, facts and cool/retro football kits!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
