@@ -3,7 +3,7 @@
 <h3>Based in Gothenburg, Sweden</h3>
 <br> <br>
 
-- 🔭 I’m currently working on **different projects and apps in my GitHub to extend my knowledge in WebDev.**
+- 🔭 I’m currently working on **a "in other words game" - but also different projects and apps to extend my knowledge in WebDev.**
 
 - 🌱 I’m currently learning **TypeScript, NextJS, Sanity**
 
