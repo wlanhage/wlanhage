@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **different projects and apps in my GitHub to extend my knowledge in WebDev.**
 
-- 🌱 I’m currently learning **React, Laravel**
+- 🌱 I’m currently learning **TypeScript, NextJS, Sanity**
 
 - 🤝 I’m looking for help with **finding a LIA (internship) within web development from Dec 2024 - May 2025.**
 
