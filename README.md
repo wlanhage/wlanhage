@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm William Lanhage</h1>
-<h3 align="center">I recently finished my bachelors degree in communications and design wich led me to pursue a web development. In my sparetime I spend time working out, hanging out with my girlfriend and play games!</h3> <br> <br>
+<h3 align="center">I recently finished my bachelors degree in communications and design wich led me to pursue a web development. In my sparetime I spend time working out, hanging out with my girlfriend and play games!</h3> 
 <h3>Based in Gothenburg, Sweden</h3>
+<br> <br>
 
 - 🔭 I’m currently working on **different projects and apps in my GitHub to extend my knowledge in WebDev.**
 
