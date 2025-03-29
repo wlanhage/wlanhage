@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm William Lanhage</h1>
-<h3 align="center">I recently finished my bachelors degree in communications and design wich led me to pursue a web development. In my sparetime I spend time working out, hanging out with my girlfriend and play games!</h3> 
+<h3 align="center">With a bachelors degree in communication and design, I am now finishing up my degree in web development</h3> 
 <h3>Based in Gothenburg, Sweden</h3>
 <br> <br>
 
-- 🔭 I’m currently working on **a "in other words game" - but also different projects and apps to extend my knowledge in WebDev.**
+- 🔭 My current occupation is **A software development intern at Gothia Digital Solutions**
 
-- 🌱 I’m currently learning **TypeScript, NextJS, Sanity**
+- 🌱 I’m currently working with, and learning **Angular, C#**
 
-- 🤝 I’m looking for help with **finding a LIA (internship) within web development from Dec 2024 - May 2025.**
-
-- 👨‍💻 All of my projects will soon be available at [http://lanhage.se](http://lanhage.se)
+- 👨‍💻 My current side-project is **My portfolio - and a guess-word-game, with React and Node.Js**
 
 - 📫 How to reach me **lanhagew@gmail.com**
 
