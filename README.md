@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm William Lanhage</h1>
-<h3 align="center">With a background in design, communication and then web-dev - I like to create things</h3> 
+<h3 align="center">With a background in design, communication and then development - I enjoy creating things I use</h3> 
 <h3>Based in Gothenburg, Sweden</h3>
 <br> <br>
 
-- 🔭 My current occupation is **Software developer at Gothia Digital Solutions & Crossborder It**
+-  My current occupation is **Software developer at Dotnet mentor**
 
-- 🌱 I’m currently working with **Angular, C#**, and learning **basic ML & Python**
+-  I’m currently working with **Angular, C#**, and learning **basic ML & Python**
 
-- 👨‍💻 My current side-project is **Golf-training app**
+-  My current side-project is **Golf-webapp, and a *heavily* "Runna" inspired webapp *
 
-- 📫 How to reach me **lanhagew@gmail.com**
-
-- ⚡ Fun fact **Im a football nerd with an interest in stats, facts and cool/retro football kits!**
+-  How to reach me **william.lanhage@dotnetmentor.se*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
